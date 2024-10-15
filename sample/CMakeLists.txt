@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(ReflectionSample main.cpp)
 
 add_subdirectory("../" reflection_build)
-target_link_libraries(ReflectionSample riftflekt)
+target_link_libraries(ReflectionSample riflekt)
