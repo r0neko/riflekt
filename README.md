@@ -1,9 +1,11 @@
 # riflekt
 
-**riflekt** is a simple object reflection system built in C++20, designed to allow introspection of object properties at runtime.
+**riflekt** is a modern object reflection system built in C++20, enabling runtime introspection of object properties and methods.
 
 ## Features
-- Easy to use object reflection
+- Simple integration with CMake
+- Intuitive API for reflecting and manipulating object properties/methods
+- Supports custom properties, methods, and object creation
 
 ## Installation
 
@@ -11,7 +13,7 @@
 - C++20 compatible compiler
 - CMake 3.14 or later
 
-### Installation
+### Configuration
 1. Clone the repository:
    ```bash
    git clone https://github.com/SpectralRift/riflekt.git
